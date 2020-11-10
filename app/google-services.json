@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330049250687",
+    "firebase_url": "https://llily-6da4d.firebaseio.com",
+    "project_id": "llily-6da4d",
+    "storage_bucket": "llily-6da4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330049250687:android:0f535f3573018acea2664a",
+        "android_client_info": {
+          "package_name": "com.example.lilly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330049250687-2gqjr67qi7ckqfp7ea10heqa1tteonps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lilly",
+            "certificate_hash": "26a85ddac1b3b2b958a8ea5cd0ac888957beb255"
+          }
+        },
+        {
+          "client_id": "330049250687-dje0357bgg5v5u248ah4kgnm1bfp6rbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6LGgrOcklkhOYIXTCqNhNhXNpJ3mKArI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330049250687-dje0357bgg5v5u248ah4kgnm1bfp6rbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

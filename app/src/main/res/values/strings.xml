@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lilly</string>
+    <string name="full_name">Full name</string>
+    <string name="whats_your_name">Whats your name?</string>
+    <string name="didn_t_get_the_otp_resend_otp">Didn\'t get the OTP? RESEND OTP.</string>
+</resources>
